@@ -1,4 +1,7 @@
-### Hi there 👋
+### Čau čau!
+
+### I am currently a postdoctoral fellow at the Tata Institute of Fundamental Research, Mumbai, India
+### researching the period of time after the first ever stars and galaxies formed - Epoch of Reionization. For that I model the 21-cm signal based on cosmological simulations.
 
 <!--
 **tomassoltinsky/tomassoltinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
