@@ -1,6 +1,6 @@
 ### Čau čau!
 
-### I am currently a postdoctoral fellow at the Tata Institute of Fundamental Research, Mumbai, India
+### I am currently a postdoctoral fellow at the Tata Institute of Fundamental Research, Mumbai, India in the field of Astrophysics and Cosmology
 ### researching the period of time after the first ever stars and galaxies formed - Epoch of Reionization. For that I model the 21-cm signal based on cosmological simulations.
 
 <!--
